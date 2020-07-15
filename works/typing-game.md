@@ -1,8 +1,8 @@
 ---
 title: 'タイピングゲーム'
-url: 'https://sns-app-b2bc1.firebaseapp.com'
+url: 'https://typing-game-five.vercel.app/'
 img: '/typing-game.png'
-git: 'https://github.com/MK776/sns-app'
+git: 'https://github.com/MK776/typing-game'
 skills: 'React  typescript'
 ---
 
